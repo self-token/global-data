@@ -5,7 +5,7 @@
     "name_beside_logo": "Test 測試",
     "logo_file_name": "",
     "is_feeless_in": 1,
-    "self_score_multiplier": 0
+    "selfer_score_multiplier": 0
   },
   {
     "address": "0xd79ed209ce09d0d92c7fbde8152be5ca672a64fa",
@@ -13,7 +13,7 @@
     "name_beside_logo": "",
     "logo_file_name": "self_bar_v2.png",
     "is_feeless_in": 1,
-    "self_score_multiplier": 1
+    "selfer_score_multiplier": 1
   },
   {
     "address": "0xe03357a6d82921874c734f5d435398869fa1efbe",
@@ -21,7 +21,7 @@
     "name_beside_logo": "",
     "logo_file_name": "oasis.png",
     "is_feeless_in": 1,
-    "self_score_multiplier": 1
+    "selfer_score_multiplier": 1
   },
   {
     "address": "0x1f23e094d292554eb9f0009a330e8fa86ff56d31",
@@ -29,7 +29,7 @@
     "name_beside_logo": "ez訂 電影票序號購買",
     "logo_file_name": "",
     "is_feeless_in": 1,
-    "self_score_multiplier": 1
+    "selfer_score_multiplier": 1
   },
   {
     "address": "0x9dbd361c6c8af19eb4ea20605dc49fd4731f2248",
@@ -37,7 +37,7 @@
     "name_beside_logo": "台北信義店",
     "logo_file_name": "tsutaya_bookstore.jpg",
     "is_feeless_in": 1,
-    "self_score_multiplier": 1
+    "selfer_score_multiplier": 1
   },
   {
     "address": "0xd3254e1d51b386706746e6439b50efd32dc8a3e5",
@@ -45,7 +45,7 @@
     "name_beside_logo": "台中市政店",
     "logo_file_name": "tsutaya_bookstore.jpg",
     "is_feeless_in": 1,
-    "self_score_multiplier": 1
+    "selfer_score_multiplier": 1
   },
   {
     "address": "0x2e185831be7df02ddfa46e52c08a0d20d70f6e2d",
@@ -53,7 +53,7 @@
     "name_beside_logo": "台北信義店",
     "logo_file_name": "wired_tokyo.jpg",
     "is_feeless_in": 1,
-    "self_score_multiplier": 1
+    "selfer_score_multiplier": 1
   },
   {
     "address": "0x5d164a08621d892c2dab2dc9f9a1a1ab06a7e479",
@@ -61,7 +61,7 @@
     "name_beside_logo": "台中市政店",
     "logo_file_name": "wired_tokyo.jpg",
     "is_feeless_in": 1,
-    "self_score_multiplier": 1
+    "selfer_score_multiplier": 1
   },
   {
     "address": "0xca33f8731b5aeb95c2e71e1e1ae5d817f34d8b6e",
@@ -69,6 +69,6 @@
     "name_beside_logo": "SELF Entities",
     "logo_file_name": "",
     "is_feeless_in": 1,
-    "self_score_multiplier": 0
+    "selfer_score_multiplier": 0
   }
 ]
