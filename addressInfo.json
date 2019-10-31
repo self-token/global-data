@@ -70,5 +70,13 @@
     "logo_file_name": "",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 0
+  },
+  {
+    "address": "0xe229fcfe21db428d2f462ce15de95c95b95a3a43",
+    "full_name": "吃光食堂",
+    "name_beside_logo": "",
+    "logo_file_name": "after_the_meal.png",
+    "is_feeless_in": 1,
+    "selfer_score_multiplier": 1
   }
 ]
