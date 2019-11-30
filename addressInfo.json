@@ -78,5 +78,13 @@
     "logo_file_name": "after_the_meal.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
+  },
+  {
+    "address": "0x61e63bf3f3fa9e28c5c60d30cf673e4352ddd9b6",
+    "full_name": "SELF TOKEN",
+    "name_beside_logo": "",
+    "logo_file_name": "self_token.png",
+    "is_feeless_in": 1,
+    "selfer_score_multiplier": 1
   }
 ]
