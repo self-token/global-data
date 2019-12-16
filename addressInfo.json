@@ -86,5 +86,13 @@
     "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
+  },
+  {
+    "address": "0xe00ab6b30eeab06a7ef52714a1e74753b576ce04",
+    "full_name": "聖人大盜電影有限合夥",
+    "name_beside_logo": "",
+    "logo_file_name": "the_last_thieves.png",
+    "is_feeless_in": 1,
+    "selfer_score_multiplier": 1
   }
 ]
