@@ -94,5 +94,13 @@
     "logo_file_name": "the_last_thieves.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
+  },
+  {
+    "address": "0xf5be53ff6cff9085da4dc5be3148830ccb25d1ab",
+    "full_name": "PUN",
+    "name_beside_logo": "",
+    "logo_file_name": "pun.png",
+    "is_feeless_in": 1,
+    "selfer_score_multiplier": 1
   }
 ]
