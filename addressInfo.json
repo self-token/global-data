@@ -117,6 +117,6 @@
     "name_beside_logo": "SELF TOKEN 2",
     "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
-    "selfer_score_multiplier": 1
+    "selfer_score_multiplier": 0
   }
 ]
