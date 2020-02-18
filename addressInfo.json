@@ -110,5 +110,13 @@
     "logo_file_name": "pun.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
+  },
+  {
+    "address": "0xab048a030c381c99b0c9bd38c07427b1bc847ff7",
+    "full_name": "SELF TOKEN 2",
+    "name_beside_logo": "SELF TOKEN 2",
+    "logo_file_name": "self_token.png",
+    "is_feeless_in": 1,
+    "selfer_score_multiplier": 1
   }
 ]
