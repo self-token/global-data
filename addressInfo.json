@@ -118,5 +118,13 @@
     "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 0
+  },
+  {
+    "address": "0xbe7625a0ae9a89e70db9195abb97891691394a6d",
+    "full_name": "尋光小徑",
+    "name_beside_logo": "",
+    "logo_file_name": "gelato_shop.jpg",
+    "is_feeless_in": 1,
+    "selfer_score_multiplier": 1
   }
 ]
