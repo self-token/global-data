@@ -134,5 +134,29 @@
     "logo_file_name": "the_misanthrope_society.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
+  },
+  {
+    "address": "0x59c435f96a44ec13a46c335fadc3221edac4667e",
+    "full_name": "鎖睡時間",
+    "name_beside_logo": "",
+    "logo_file_name": "time2sleep99.png",
+    "is_feeless_in": 1,
+    "selfer_score_multiplier": 1
+  },
+  {
+    "address": "0x006d7fa7c86243e00b29fa0eeb4509a937201fb0",
+    "full_name": "舒油頭 信義北醫店",
+    "name_beside_logo": "信義北醫店",
+    "logo_file_name": "slowly_yo.jpeg",
+    "is_feeless_in": 1,
+    "selfer_score_multiplier": 1
+  },
+  {
+    "address": "0x07ade55056b40e213675d7727417a6a037567368",
+    "full_name": "舒油頭 台大公館店",
+    "name_beside_logo": "台大公館店",
+    "logo_file_name": "slowly_yo.jpeg",
+    "is_feeless_in": 1,
+    "selfer_score_multiplier": 1
   }
 ]
