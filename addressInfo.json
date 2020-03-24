@@ -163,7 +163,7 @@
     "address": "0xb9378E10188ae219ed4A560d092dE1D1fFd0e1dd",
     "full_name": "飛鳥小初",
     "name_beside_logo": "",
-    "logo_file_name": "https://storage.googleapis.com/selftoken/image/merchant/logo_M112_512.jpg",
+    "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
 },
@@ -171,7 +171,7 @@
     "address": "0xCA39cbC55FfB8e50b8a08989017B79060094f11d",
     "full_name": "Mix Bistro",
     "name_beside_logo": "",
-    "logo_file_name": "https://storage.googleapis.com/selftoken/image/merchant/logo_M113_512.jpg",
+    "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
 },
@@ -179,7 +179,7 @@
     "address": "0xd3490Cc2Aa8354e26A5ED50A273Eab4bCBcC00e0",
     "full_name": "Central Park Cafe",
     "name_beside_logo": "",
-    "logo_file_name": "https://storage.googleapis.com/selftoken/image/merchant/logo_M114_512.jpg",
+    "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
 },
@@ -187,7 +187,7 @@
     "address": "0x5Bb18546aA20960bc8112BAB07f2FDc2c480952E",
     "full_name": "錘子咖啡烘焙坊",
     "name_beside_logo": "",
-    "logo_file_name": "https://storage.googleapis.com/selftoken/image/merchant/logo_M115_512.jpg",
+    "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
 },
@@ -195,7 +195,7 @@
     "address": "0xFE5770ACbF3eaE580D79631c440206f53A7d72ea",
     "full_name": "QP Café",
     "name_beside_logo": "",
-    "logo_file_name": "https://storage.googleapis.com/selftoken/image/merchant/logo_M116_512.jpg",
+    "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
 },
@@ -203,7 +203,7 @@
     "address": "0xC6DD5D9fB4Cd03e677312530152d0B5432A3Af5b",
     "full_name": "好果實 好食咖啡",
     "name_beside_logo": "",
-    "logo_file_name": "https://storage.googleapis.com/selftoken/image/merchant/logo_M117_512.jpg",
+    "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
 },
@@ -211,7 +211,7 @@
     "address": "0xEE2aF1A6E35cbA1eE8160f1E1A0838c5d5EBCf78",
     "full_name": "羞號精釀小酒館",
     "name_beside_logo": "",
-    "logo_file_name": "https://storage.googleapis.com/selftoken/image/merchant/logo_M118_512.jpg",
+    "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
 },
@@ -219,7 +219,7 @@
     "address": "0x8ff94b89D9294658c38a0f6556BF8842cEDa2f6B",
     "full_name": "樂聚坊桌上遊戲",
     "name_beside_logo": "",
-    "logo_file_name": "https://storage.googleapis.com/selftoken/image/merchant/logo_M119_512.jpg",
+    "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
 },
@@ -227,7 +227,7 @@
     "address": "0xD73a2BE198b8e2E22eFd205AD9A56fdc738E700C",
     "full_name": "89 LOOP",
     "name_beside_logo": "",
-    "logo_file_name": "https://storage.googleapis.com/selftoken/image/merchant/logo_M120_512.jpg",
+    "logo_file_name": "self_token.png",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
 }
