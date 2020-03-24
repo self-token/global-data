@@ -158,5 +158,13 @@
     "logo_file_name": "slowly_yo.jpeg",
     "is_feeless_in": 1,
     "selfer_score_multiplier": 1
-  }
+  },
+{
+    "address": "0xb9378E10188ae219ed4A560d092dE1D1fFd0e1dd",
+    "full_name": "飛鳥小初",
+    "name_beside_logo": "",
+    "logo_file_name": "https://storage.googleapis.com/selftoken/image/merchant/logo_M112_512.jpg",
+    "is_feeless_in": 1,
+    "selfer_score_multiplier": 1
+}
 ]
