@@ -6,6 +6,7 @@
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_selftoken_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 0
   },
   {
@@ -15,6 +16,7 @@
     "logo_file_name": "self_bar_v2.png",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_selfbar_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -24,6 +26,7 @@
     "logo_file_name": "fu_milk_tea.jpg",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_fumilktea_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -33,6 +36,7 @@
     "logo_file_name": "oasis.png",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_selfoasis_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -42,6 +46,7 @@
     "logo_file_name": "",
     "logo_url": "",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -51,6 +56,7 @@
     "logo_file_name": "tsutaya_bookstore.jpg",
     "logo_url": "",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -60,6 +66,7 @@
     "logo_file_name": "tsutaya_bookstore.jpg",
     "logo_url": "",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -69,6 +76,7 @@
     "logo_file_name": "wired_tokyo.jpg",
     "logo_url": "",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -78,6 +86,7 @@
     "logo_file_name": "wired_tokyo.jpg",
     "logo_url": "",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -87,6 +96,7 @@
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_selftoken_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 0
   },
   {
@@ -96,6 +106,7 @@
     "logo_file_name": "after_the_meal.png",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M105_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -105,6 +116,7 @@
     "logo_file_name": "self_token.png",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_selftoken_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -114,6 +126,7 @@
     "logo_file_name": "the_last_thieves.png",
     "logo_url": "",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -123,6 +136,7 @@
     "logo_file_name": "pun.png",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M106_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -132,6 +146,7 @@
     "logo_file_name": "self_token.png",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_selftoken_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 0
   },
   {
@@ -141,6 +156,7 @@
     "logo_file_name": "gelato_shop.jpg",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M107_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -150,6 +166,7 @@
     "logo_file_name": "the_misanthrope_society.png",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M108_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -159,6 +176,7 @@
     "logo_file_name": "time2sleep99.png",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M109_512.png",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -168,6 +186,7 @@
     "logo_file_name": "slowly_yo.jpeg",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M110_512.jpeg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -177,6 +196,7 @@
     "logo_file_name": "slowly_yo.jpeg",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M110_512.jpeg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -186,6 +206,7 @@
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M112_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -195,6 +216,7 @@
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M113_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -204,6 +226,7 @@
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M114_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -213,6 +236,7 @@
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M115_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -222,6 +246,7 @@
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M116_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -231,6 +256,7 @@
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M117_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -240,6 +266,7 @@
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M118_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -249,6 +276,7 @@
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M119_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   },
   {
@@ -258,6 +286,7 @@
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_M120_512.jpg",
     "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 1
   }
 ]
