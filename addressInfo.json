@@ -288,5 +288,15 @@
     "is_feeless_in": 1,
     "is_feeless_out": 1,
     "selfer_score_multiplier": 1
+  },
+  {
+    "address": "0xeb90Efa413E7c8246DE8182554E15aF98E97711f",
+    "full_name": "SELF PICK",
+    "name_beside_logo": "",
+    "logo_file_name": "",
+    "logo_url": "https://storage.googleapis.com/selftoken/image/logo/logo_selfpick_512.jpg",
+    "is_feeless_in": 1,
+    "is_feeless_out": 1,
+    "selfer_score_multiplier": 1
   }
 ]
