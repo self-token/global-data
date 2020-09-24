@@ -1,1 +1,10 @@
-[]
+[{
+    "address": "0xab048a030c381c99b0c9bd38c07427b1bc847ff7",
+    "full_name": "SELF TOKEN",
+    "name_beside_logo": "SELF TOKEN",
+    "logo_file_name": "",
+    "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_selftoken_512.jpg",
+    "is_feeless_in": 0,
+    "is_feeless_out": 0,
+    "selfer_score_multiplier": 0
+  }]
