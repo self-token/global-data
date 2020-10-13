@@ -4,7 +4,7 @@
     "name_beside_logo": "SELF TOKEN",
     "logo_file_name": "",
     "logo_url": "https://storage.googleapis.com/selftoken/image/merchant/logo_selftoken_512.jpg",
-    "is_feeless_in": 0,
-    "is_feeless_out": 0,
+    "is_feeless_in": 1,
+    "is_feeless_out": 1,
     "selfer_score_multiplier": 0
   }]
